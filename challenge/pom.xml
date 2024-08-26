@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <pitest.junit5.version>0.12</pitest.junit5.version>
         <maven.jacoco.version>0.8.5</maven.jacoco.version>
         <pitest.version>1.5.2</pitest.version>
